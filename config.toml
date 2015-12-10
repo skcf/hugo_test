@@ -1,4 +1,4 @@
-baseurl = "https://airx.co.jp/hugo_test_blog/"
+baseurl = "https://airx.co.jp/hugo_test"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "allegiant"
